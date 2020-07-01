@@ -1,0 +1,40 @@
+.jumbotron {
+    background-color: lightseagreen;
+    color: white;
+}
+
+li {
+    overflow: auto;
+}
+
+#search-btn {
+    background-color: lightseagreen;
+}
+
+.fa {
+    color: white;
+}
+
+#weather-icon {
+    max-width: 40px;
+    max-height: 40px;
+}
+
+.high {
+    color: white;
+    background-color: red;
+}
+
+.medium {
+    color: black;
+    background-color: goldenrod;
+}
+
+.low {
+    color: black;
+    background-color: lightgreen;
+}
+
+.badge {
+    font-size: 100%;
+}
